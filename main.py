@@ -12,7 +12,7 @@ import os
 os.system("python detect.py --weights runs/train/exp23/weights/best.pt --device cpu --save-txt --save-crop --source output/images/trainee2307")
 
 # Training
-# os.system("python train.py --img 640 --batch 8 --epochs 50 --data custom.yaml --weights yolov5s.pt --device cpu")
+# os.system("python train.py --img 640 --batch 8 --epochs 50 --data custom.yaml --weights yolov5s.pt")
 
 # Results
 # results.crop()
