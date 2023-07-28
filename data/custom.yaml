@@ -1,0 +1,6 @@
+train: ../output/images/trainee2307
+val: ../output/images/trainee2307
+
+nc: 1
+names:
+  0: 몽실이
