@@ -9,7 +9,7 @@ Django==4.1.7
 django-cors-headers==3.14.0
 djangorestframework==3.14.0
 executing==1.2.0
-ipykernel==6.23.1
+ipykernel==6.25.1
 ipython==8.13.2
 jedi==0.18.2
 jupyter_client==8.2.0
